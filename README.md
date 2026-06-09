@@ -24,5 +24,6 @@ In the temporal dimension, we incorporate the physical principle of short-term d
 
 Extensive experiments on the D^3 and other two related datasets demonstrate that PhysTID achieves state-of-the-art performance.
 
-After the paper is accepted, we will release the code and data.
-![alt text](image.png)
+**After the paper is accepted, we will release the code and data.**
+<img width="2458" height="800" alt="image" src="https://github.com/user-attachments/assets/30caccef-d216-44ca-9ce3-0efdffc09f6d" />
+
